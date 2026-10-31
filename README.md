@@ -7,7 +7,7 @@ prices, who gets what, and the handover itself.
 Built for [Claude Code](https://claude.com/claude-code) and tested on a real ten-day sale on
 [DBA.dk](https://www.dba.dk) (a Danish second-hand marketplace) and Facebook Marketplace.
 The write-up of how that went, with the numbers, is on my site:
-[My agent sold my old furniture and saved me more than 70 hours](https://thevfxsupervisor.com/notes/selling-stuff-with-an-agent/).
+[My agent sold my old furniture and saved me more than 50 hours](https://thevfxsupervisor.com/notes/selling-stuff-with-an-agent/).
 
 ## What the agent does
 
